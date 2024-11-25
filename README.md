@@ -1,6 +1,7 @@
 # DataCleaner
 
-Rachuk Yaroslav and Khakhula Nazarii-Roman
+Rachuk Yaroslav and Khakhula Nazarii-Roman SA-32
+
 Data Cleaning and Preprocessing Library  
 
 ---
